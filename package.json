@@ -1,0 +1,25 @@
+{
+  "name": "path_converter_linz",
+  "version": "1.0.0",
+  "description": "convert path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airlinz/path_converter.git"
+  },
+  "keywords": [
+    "path_convert"
+  ],
+  "author": "airlinz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airlinz/path_converter/issues"
+  },
+  "homepage": "https://github.com/airlinz/path_converter#readme",
+  "dependencies": {
+    "win_wsl_path": "^2.0.1"
+  }
+}
